@@ -1,2 +1,15 @@
 # Exam_rank_02
-Exam rank 02 / 42 _Network
+This exam has 4 questions in total, one from each level.
+
+```
+  login : exam
+  passwd : exam
+ 
+```
+
+```
+  $> examshell
+  
+```
+
+🔥Good luck🔥
